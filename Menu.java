@@ -4,3 +4,6 @@ public class Menu{
 
 	}
 }
+
+def menu():
+	menu =  __init__ [Bmenu, Lmenu, Dmenu];
